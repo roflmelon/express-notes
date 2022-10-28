@@ -22,7 +22,10 @@
 
 ## Installation
 
-- No installation required, simply visit live link here: https://express-notes-utor.herokuapp.com/
+- No installation required for viewing only, simply visit live link here: https://express-notes-utor.herokuapp.com/
+- If this application needs to be used to view saved notes, please install to local machine.
+- Download the repository.
+- Run npm install from directory.
 
 ## Usage
 
