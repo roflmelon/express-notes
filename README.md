@@ -22,7 +22,7 @@
 
 ## Installation
 
-- No installation required, simply visit live link here:
+- No installation required, simply visit live link here: https://express-notes-utor.herokuapp.com/
 
 ## Usage
 
